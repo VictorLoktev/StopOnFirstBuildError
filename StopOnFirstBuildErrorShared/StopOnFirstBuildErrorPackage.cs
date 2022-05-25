@@ -38,7 +38,7 @@ using Microsoft.VisualStudio.Shell.Interop;
 namespace EinarEgilsson.StopOnFirstBuildError
 {
 	[PackageRegistration(UseManagedResourcesOnly = true, AllowsBackgroundLoading = true)]
-	[InstalledProductRegistration("#110", "#112", "1.0", IconResourceID = 400)]
+	[InstalledProductRegistration("#110", "#112", "2.3.1", IconResourceID = 400)]
 	[ProvideMenuResource("Menus.ctmenu", 1)]
 #if VS2019
 	[Guid(PackageGuid2019)]

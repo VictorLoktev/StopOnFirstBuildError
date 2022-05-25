@@ -25,7 +25,7 @@ using System.Reflection;
 using System.Resources;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("StopOnFirstBuildError")]
+[assembly: AssemblyTitle("Stop On First Build Error")]
 [assembly: AssemblyDescription("Visual Studio 2022 extension to stop a solution build as soon as one project has failed to build.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Einar Egilsson")]

@@ -118,14 +118,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="110" xml:space="preserve">
-    <value>StopOnFirstBuildError</value>
+    <value>Stop On First Build Error</value>
   </data>
   <data name="112" xml:space="preserve">
-    <value>StopOnFirstBuildError
-
+    <value>Stop On First Build Error
 Stops a solution build immediately after a project has failed to build.
-
-https://einaregilsson.com/stop-build-on-first-error-in-visual-studio-2010/</value>
+More info at https://einaregilsson.com/stop-build-on-first-error-in-visual-studio-2010/</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="400" type="System.Resources.ResXFileRef, System.Windows.Forms">
